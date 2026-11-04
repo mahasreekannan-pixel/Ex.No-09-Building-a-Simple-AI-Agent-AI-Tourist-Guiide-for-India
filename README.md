@@ -52,3 +52,4 @@ Fig 2: Console output for the adventure-seeker and beach-holiday profiles, each 
 ## Conclusion
 Thus, a simple goal-based AI Tourist Agent for India was successfully designed, implemented and tested using Python. The agent follows the classic Perceive → Reason → Plan → Act cycle: it perceives a tourist's goal (interest, duration and budget), reasons over a knowledge base of Indian destinations to find matching options, plans a day-wise itinerary, and acts by presenting a complete, costed trip recommendation. This experiment demonstrates the core building blocks of autonomous agents — environment knowledge, perception, reasoning/planning and action — on which more advanced AI agents (using machine learning, real-time APIs and large language models) are built.
 
+<img width="642" height="428" alt="image" src="https://github.com/user-attachments/assets/57a16c56-2c98-4a2e-890f-65a9fc22535f" />
